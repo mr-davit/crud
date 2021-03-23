@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box i !important;
+  text-decoration: none;
+  list-style: none;
+}
+
+.center {
+  display: block;
+  width: 500px;
+  height: 40px;
+  margin: auto;
+  padding: 40px 0;
+}
+
+.close_edit {
+
+  cursor: pointer;
+}
+
+#edit {
+  display: none;
+
+}
+
+ul li {
+  padding: 10px 0;
+}
+
+
